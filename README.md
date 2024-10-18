@@ -1,6 +1,7 @@
 # Remove from Background React App
 
 Remove a selected item from the background, using python.
+![](sample.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
