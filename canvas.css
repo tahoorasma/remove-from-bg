@@ -1,0 +1,14 @@
+.main-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  canvas {
+    border: 1px solid black;
+    margin-top: 10px;
+  }
+  
