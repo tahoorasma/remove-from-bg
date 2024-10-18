@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Remove from Background React App
 
+Remove a selected item from the background, using python.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
